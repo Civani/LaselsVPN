@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e66b5892.chunk.js",
+    "main.js.map": "/static/js/main.e66b5892.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8383212.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8383212.js.map",
+    "static/css/2.65f8c46c.chunk.css": "/static/css/2.65f8c46c.chunk.css",
+    "static/js/2.8a4e3f81.chunk.js": "/static/js/2.8a4e3f81.chunk.js",
+    "static/js/2.8a4e3f81.chunk.js.map": "/static/js/2.8a4e3f81.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.65f8c46c.chunk.css.map": "/static/css/2.65f8c46c.chunk.css.map",
+    "static/js/2.8a4e3f81.chunk.js.LICENSE.txt": "/static/js/2.8a4e3f81.chunk.js.LICENSE.txt",
+    "static/media/Ellipse 175.caf69e68.png": "/static/media/Ellipse 175.caf69e68.png",
+    "static/media/Facebook.31f5bdfc.svg": "/static/media/Facebook.31f5bdfc.svg",
+    "static/media/Free.50532e3b.svg": "/static/media/Free.50532e3b.svg",
+    "static/media/Group 1120.02947788.svg": "/static/media/Group 1120.02947788.svg",
+    "static/media/Group 1215.37a36ed7.svg": "/static/media/Group 1215.37a36ed7.svg",
+    "static/media/Group 1216.35b67490.svg": "/static/media/Group 1216.35b67490.svg",
+    "static/media/Group 1217.71b4e433.svg": "/static/media/Group 1217.71b4e433.svg",
+    "static/media/Huge Global.cd3f4cb0.svg": "/static/media/Huge Global.cd3f4cb0.svg",
+    "static/media/Illustration 1.a61e4742.svg": "/static/media/Illustration 1.a61e4742.svg",
+    "static/media/Illustration 2.788bd417.svg": "/static/media/Illustration 2.788bd417.svg",
+    "static/media/Instagram.c5a36e9c.svg": "/static/media/Instagram.c5a36e9c.svg",
+    "static/media/Logo.442e6676.svg": "/static/media/Logo.442e6676.svg",
+    "static/media/Mask Group (1).64a40740.svg": "/static/media/Mask Group (1).64a40740.svg",
+    "static/media/Mask Group (3).66a1b8c1.svg": "/static/media/Mask Group (3).66a1b8c1.svg",
+    "static/media/Mask Group (4).d90c8b9d.svg": "/static/media/Mask Group (4).d90c8b9d.svg",
+    "static/media/Mask Group.999e6a1c.svg": "/static/media/Mask Group.999e6a1c.svg",
+    "static/media/Twitter.6e9725a7.svg": "/static/media/Twitter.6e9725a7.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8383212.js",
+    "static/css/2.65f8c46c.chunk.css",
+    "static/js/2.8a4e3f81.chunk.js",
+    "static/js/main.e66b5892.chunk.js"
+  ]
+}
